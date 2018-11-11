@@ -1,3 +1,2 @@
-# zhuangtongzxy.github.io
-**about**  
+# about  
 this is website about zhuangtong and zhaoxuyi.
