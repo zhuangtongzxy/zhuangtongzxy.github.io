@@ -13,13 +13,13 @@ We first meet at 2018-06-02.
 
 
 <figure>
-	<a href="https://github.com/zhuangtongzxy/zhuangtongzxy.github.io/blob/master/images/f1823d7ab9eab98f0ca682ae4.jpeg"><img src="https://github.com/zhuangtongzxy/zhuangtongzxy.github.io/blob/master/images/f1823d7ab9eab98f0ca682ae4.jpeg"></a>
+	<a href="https://github.com/zhuangtongzxy/zhuangtongzxy.github.io/blob/master/images/f1823d7ab9eab98f0ca682ae4.jpeg"><img src="/images/f1823d7ab9eab98f0ca682ae4.jpeg"></a>
 	
 </figure>
 
 
 
-#### Two Up
+### Two Up
 
 
 Apply the `half` class like so to display two images side by side that share the same caption.
