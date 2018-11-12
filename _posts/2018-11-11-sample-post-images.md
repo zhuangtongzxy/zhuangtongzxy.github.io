@@ -9,17 +9,24 @@ comments: true
 
 We first meet at 2018-06-02.
 
-### One Up
+### In Nanjin
 
 
 <figure>
 	<a href="https://github.com/zhuangtongzxy/zhuangtongzxy.github.io/blob/master/images/f1823d7ab9eab98f0ca682ae4.jpeg"><img src="/images/f1823d7ab9eab98f0ca682ae4.jpeg"></a>
-	
+
+
+	<a href="https://github.com/zhuangtongzxy/zhuangtongzxy.github.io/blob/master/images/7c00bf00597c038c990a06c9e.jpeg"><img src="/images/7c00bf00597c038c990a06c9e.jpeg"></a>
+
+
+	<a href="https://github.com/zhuangtongzxy/zhuangtongzxy.github.io/blob/master/images/deff2dd99670c12a78fd6cdbe.jpeg"><img src="/images/deff2dd99670c12a78fd6cdbe.jpeg"></a>
+
+
 </figure>
 
 
 
-### Two Up
+### Two Up Code Example
 
 
 Apply the `half` class like so to display two images side by side that share the same caption.
