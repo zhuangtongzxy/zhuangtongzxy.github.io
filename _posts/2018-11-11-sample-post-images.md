@@ -21,7 +21,6 @@ We first meet at 2018-06-02.
 
 #### Two Up
 
-If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
 
 Apply the `half` class like so to display two images side by side that share the same caption.
 
