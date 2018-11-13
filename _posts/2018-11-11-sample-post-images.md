@@ -7,9 +7,9 @@ tags: [first post, sample post, images, test]
 comments: true
 ---
 
-We first meet at 2018-06-02.
+2018-06-02.
 
-### In Nanjin
+### In Nanjing
 
 
 <figure>
