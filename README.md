@@ -1,2 +1,2 @@
 # about  
-this is website about zhuangtong and zhaoxuyi.
+this is website about 
